@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoCal1992
-- 👀 I’m interested in Java, Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on various Java projects
+- 👀 I’m interested in Java, Python, Rust, Powershell
+- 🌱 I’m currently learning how to program in Java and Powershell
+- 💞️ I’m looking to collaborate on various open source projects
 - 📫 How to reach me ...
 
 <!---
